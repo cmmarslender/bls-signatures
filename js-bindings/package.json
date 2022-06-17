@@ -1,5 +1,5 @@
 {
-  "name": "bls-signatures",
+  "name": "@cmmarslendeer/bls-signatures",
   "version": "0.2.1-beta.0",
   "description": "The most advanced BLS library for JavaScript",
   "main": "blsjs.js",
